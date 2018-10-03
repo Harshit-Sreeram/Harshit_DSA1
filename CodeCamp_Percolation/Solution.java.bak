@@ -11,7 +11,4 @@
 // You can implement the above API to solve the problem
 public class Solution
 {
-	public static void main(String argc[]){
-	
-	}
 }
